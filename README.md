@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MrSmartX
 - 👀 I’m interested in coding/apps/security
-- 🌱 I’m currently learning everything
+- 🌱 I’m currently learning Cyber-Security
 - 💞️ I’m looking to collaborate on apps/security
 - 📫 How to reach me snap: @nichtdodo33
 
